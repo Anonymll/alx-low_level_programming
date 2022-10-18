@@ -2,7 +2,7 @@
 #include <stdio.h>
 
 /**
- * print "_putchar"
+ * main -is the entry point for the program.
  *
  * Return:  0.
  */
